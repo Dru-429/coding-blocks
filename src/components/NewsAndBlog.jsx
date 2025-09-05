@@ -75,7 +75,7 @@ const NewsAndBlog = () => {
         <div className=" gap-12 lg:gap-16 mb-16">
 
           {/* IN THE NEWS Section */}
-          <div className="lg:col-span-1 w-full bg-slate-900 py-28 px-20">
+          <div className="lg:col-span-1 w-full bg-slate-900 py-28 px-20 hidden md:visible lg:visible">
             <div className="mb-8">
               <h2 className="text-2xl lg:text-3xl font-bold text-white mb-2 tracking-wide">
                 IN THE NEWS
