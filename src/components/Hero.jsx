@@ -171,7 +171,7 @@ const Hero = () => {
         </div>
 
         {/* Secondary Navigation */}
-        <div className="bg-slate-700 border-b border-slate-600">
+        <div className="bg-slate-700 border-b border-slate-600 hidden md:visible">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="flex justify-center space-x-8 py-3">
               <a
